@@ -1,0 +1,12 @@
+
+.màu-nền-div{
+    background-color: yellowgreen;
+    width: 300px; 
+    border: 1px solid black; 
+    padding: 10px; 
+    margin: 30px
+}
+
+.màu-nền-p{
+    background-color:rgb(128, 128, 128); color: rgb(245, 222, 179)
+}
